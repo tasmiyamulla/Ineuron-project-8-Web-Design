@@ -2,7 +2,7 @@
 
 _by Tasmiya 💗_
 
-### 🔗*Live Link* -: [Web Design]()
+### 🔗*Live Link* -: [Web Design](https://tasmiya-proj-8.netlify.app)
 
 ![Web Design](./8.png)
 
